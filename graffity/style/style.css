@@ -1,0 +1,97 @@
+
+.body{
+    opacity: 80%;
+    background-image: url("../img/graf.png");
+}
+
+a{
+    opacity: 0.3;
+    color: aliceblue;
+    text-decoration: dashed;
+}
+.nave1{
+    margin: 0 20px 0 20px;
+}
+.nave2{
+    margin: 0 20px 0 20px;
+}
+.nave3{
+    margin: 0 20px 0 20px;
+}
+
+.nav{
+    float: right;
+    font-size: 50px;
+}
+a:hover{
+opacity: 1.0;
+font-size: 52px;
+}
+.navbar{
+    padding: 10px;
+    background-color: #191919;
+}
+footer{
+    position: absolute;
+    bottom: 5px;
+    left: 47%;
+     padding: 10px;
+    background-color: #191919;
+    
+}
+#mg{
+    color: aliceblue;
+    text-decoration: dashed;
+    text-align: center;
+}
+#logo{
+    width: 180px;
+    height: auto;
+}
+
+#gamm{
+    float: left;
+    padding: 30px;
+    width: 500px;
+    height: 300px;
+    border-radius: 80px;
+    position: absolute;
+    left: 20px;
+    top: 227px;
+}
+#gamm2{
+    float: right;
+    padding: 30px;
+    width: 500px;
+    height: 300px;
+    border-radius: 80px;
+    position: absolute;
+    right: 20px;
+    top: 227px;
+}
+
+#siea{
+    text-align: center;
+    color: aliceblue;
+}
+
+#gg{
+    float: left;
+    padding: 70px;
+    width: 500px;
+    height: auto;
+}
+#gg1{
+    position: absolute;
+    float: none;
+    padding: 80px;
+    width: 700px;
+    height: auto;
+    left: 33%;
+}
+#gg2{
+    float: right;
+    padding: 70px;
+    width: 550px;
+    height: auto;
+}
